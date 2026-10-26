@@ -11,12 +11,13 @@ body{
         margin:0 auto;
         border-bottom: 8px solid #d8cefe;
         color: #2b2839;
-
+        border-radius: 50px;
         
 }
 
 .my-img{
     width: 120px;
+    border-radius: 20px;
 }
 
 
